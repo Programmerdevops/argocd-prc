@@ -15,7 +15,7 @@ spec:
           - name: message
             value: "MESSAGE FROM ARGOCD: The last sync is:  *** Sync OK ***"
           - name: url
-            value: "mattermost.local"
+            value: "34.61.189.109"
           - name: token
             value: "1mh8r35js7dhpcswb4mpnkwpcw"
           - name: scheme
@@ -23,8 +23,8 @@ spec:
           - name: port
             value: "8065"
           - name: channel_name
-            value: "argocd-course"
+            value: "Argocd"
           - name: team_name
-            value: "DevOps-Hobbies"
+            value: "IBM"
       restartPolicy: Never
   backoffLimit: 0
