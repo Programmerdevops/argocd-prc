@@ -15,16 +15,16 @@ spec:
           - name: message
             value: "MESSAGE FROM ARGOCD: The last sync is:  *** Sync Failed ***"
           - name: url
-            value: "mattermost.local"
+            value: "34.61.189.109"
           - name: token
-            value: "1mh8r35js7dhpcswb4mpnkwpcw"
+            value: "n148bomritfa7mgt7a4fna9m6w"
           - name: scheme
             value: "http"
           - name: port
             value: "8065"
           - name: channel_name
-            value: "argocd-course"
+            value: "Argocd"
           - name: team_name
-            value: "DevOps-Hobbies"
+            value: "IBM"
       restartPolicy: Never
   backoffLimit: 0
